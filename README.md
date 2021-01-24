@@ -6,3 +6,5 @@ Estos códigos se utilizaron para la implementación del prototipo de proyecto R
 La autoría de estos códigos es un trabajo de Alejandro Guillén, propiedad conjunta de Alejandro Guillén, Félix Amézquita y el Instituto Tecnológico de Santo Domingo.
 
 El uso comercial de este código está prohibido, pero puede ser utilizado como referencia para proyectos de ocio o educativos.
+
+Video demostrativo: https://youtu.be/seSJEE-BbOI
